@@ -1,1 +1,18 @@
-# pm-course-tutorhub
+# TutorHub — Платформа пошуку репетиторів серед студентів
+
+Командний проєкт у рамках курсу «Управління проєктами».
+
+## Опис
+TutorHub — це веб-сервіс, покликаний об'єднати студентів молодших курсів, які потребують допомоги у навчанні, зі старшокурсниками-репетиторами в межах одного університету.
+
+Детальний опис концепції, цільової аудиторії та функціональності доступний у документі:  
+📄 **[Project Brief](./project-brief.md)**
+
+## Склад команди
+| Роль | Учасник | GitHub Profile |
+|---|---|---|
+| Project Manager | Роман Пашков | [@romanpashkov](https://github.com/romanpashkov) |
+| Product Owner | Коваленко Олексій | [@oleksii-kov](https://github.com/oleksii-kov) |
+| Developer | Шевченко Дмитро | [@dmitro-dev](https://github.com/dmitro-dev) |
+| Designer | Мельник Ірина | `@ira-design` |
+| Analyst | Бондаренко Анна | `@anna-analyst` |

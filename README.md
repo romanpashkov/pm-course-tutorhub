@@ -8,12 +8,13 @@ TutorHub — це веб-сервіс, покликаний об'єднати с
 Проєктна документація:
 - 📄 **[Project Brief](./project-brief.md)** — концепція продукту та склад команди.
 - 📊 **[Project Classification & Environment Analysis](./project-classification.md)** — класифікація проєкту, аналіз середовища, обмеження та припущення.
+- 🔄 **[Project Lifecycle](./project-lifecycle.md)** — життєвий цикл проєкту, фази, ворота, діаграма та обґрунтування моделі.
 
 ## Склад команди
 | Роль | Учасник | GitHub Profile |
 |---|---|---|
 | Project Manager | Роман Пашков | [@romanpashkov](https://github.com/romanpashkov) |
-| Product Owner | Коваленко Олексій | [@oleksii-kov](https://github.com/oleksii-kov) |
-| Developer | Шевченко Дмитро | [@dmitro-dev](https://github.com/dmitro-dev) |
+| Product Owner | Коваленко Олексій | `@oleksii-kov` |
+| Developer | Шевченко Дмитро | `@dmitro-dev` |
 | Designer | Мельник Ірина | `@ira-design` |
 | Analyst | Бондаренко Анна | `@anna-analyst` |
